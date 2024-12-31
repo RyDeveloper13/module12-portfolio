@@ -31,7 +31,7 @@ export const Resume = () => {
                         <Nav.Link eventKey="first">Download Resume</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link className="prof" eventKey="second">Proficiencies</Nav.Link>
+                        <Nav.Link eventKey="second">Proficiencies</Nav.Link>
                       </Nav.Item>
                     </Nav>
                     <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
